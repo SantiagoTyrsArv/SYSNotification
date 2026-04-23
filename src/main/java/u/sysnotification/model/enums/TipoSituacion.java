@@ -1,4 +1,4 @@
-package model.enums;
+package u.sysnotification.model.enums;
 
 public enum TipoSituacion {
     PUBLICACION_CALIFICACIONES,
